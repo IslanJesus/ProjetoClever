@@ -1,0 +1,18 @@
+.h1 {
+    position: center;
+    color: blue;          
+}
+
+.body {
+    background-color: rgba(255, 0, 255, 0.055);
+}
+
+.Excel {
+width: 1030px;
+height: 1000px ;
+}
+
+.Rodape {
+ display flex;
+ margin 10px;   
+}
